@@ -15,4 +15,6 @@ Ter cores gritantes ou contrastes fortes demais espantará visitantes, important
 #2B823A ; #51A35F ; #00410B; #50608F; #143153; */
 
 /* o Esquema triádico do azul marinho retorna verde e azul escuro. */
-<img> https://ibb.co/C1vdS37 </img>
+<img src="https://i.ibb.co/YR89VFk/image.png"
+     alt="Esquema de cores"
+     style="float: left; margin-right: 10px;" />
