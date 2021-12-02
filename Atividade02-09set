@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:link {
+  text-decoration: none;
+  color: #10631A;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+body {
+  background-image: url('https://images.unsplash.com/photo-1531012278403-e5db3b774373?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  color: #748BA7;
+  text-align:center;
+}
+
+p {
+  color:#143153;
+  font-family: "Arial";
+  font-size: 26px;
+}
+</style>
+</head>
+<body>
+
+<h1>Informações do aluno</h1>
+<p>Nome: Alexandre Leschot Frederick</p>
+<p>Idade: 27 anos.</p>
+<p>Hobby: Andar de barco</p>
+
+<a href="https://www.google.com/search?q=boat&rlz=1C1GCEA_enBR962BR962&sxsrf=AOaemvIucPSBrdoRoA6VIBojz7SR_IV9sw:1638474496318&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjwiM6S8cX0AhVGILkGHXapB_oQ_AUoA3oECAIQBQ&biw=1153&bih=896&dpr=1">Clique para comprar um barco</a>
+</body>
+
+</html>
