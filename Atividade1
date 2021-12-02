@@ -1,0 +1,24 @@
+#Atividade 1
+O exemplo a seguir contém 4 erros tornando o HTML mal formado. Quais são os erros e qual seria a forma correta para cada um?
+
+<html></html>
+<head>
+<title> Este é um código HTML mal formado </title>
+<body>
+<h1>Essa é uma marcação para <b>títulos</h1>
+<p>Essa é a marcação para um parágrafo com <b>negrito e <i>itálico</i></b></p>.
+</body>
+
+O documento não fecha o atributo Head, </html> deve estar no final, não possui <!DOCTYPE html> e não nescessita <b> para palavras dentro de <h1>
+Exemplo final de HTML bem escrito:
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> Este é um código HTML bem formado </title>
+</head>
+<body>
+<h1>Essa é uma marcação para títulos</h1>
+<p>Essa é a marcação para um parágrafo com <b>negrito e <i>itálico</i></b></p>.
+</body>
+</html>
