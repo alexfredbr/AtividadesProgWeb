@@ -1,0 +1,16 @@
+Atividade 02
+Acesse este site <http://www.w3schools.com/css/tryit.asp?filename=trycss_default>&gt; e realize as trocas listadas a seguir. 
+Para cada uma delas clique em "Submit" e veja o resultado do lado direito:
+
+    troque "lightblue" por "orange";
+    troque "center" por "right";
+    troque "20px" por "10px".
+
+Ainda no site indicado, exclua todo o conteúdo do quadro à esquerda e digite o conteúdo disponível na imagem 01.jpg:
+
+Clique em "Submit", observe que existem três parágrafos com informações do aluno. Agora, na linha 15, substitua "blue" por "green", na linha 16
+substitua "Times New Roman" por "Arial Black" e, na linha 17, substitua "20px" por "28px", clique novamente em "Editand Click Me" e veja o que acontece. 
+Descreva o que aconteceu quando as alterações foram confirmadas. De que forma isso poderá ajudar no desenvolvimento de páginas HTML?
+
+As alterações rápidas no código HTML transformaram a forma com que as informações apareciam no site, estas transformações podem
+ajudar no desenvolvimento de páginas HTML dispondo de forma mais agradável aos olhos o conteúdo do site.
