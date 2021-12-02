@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://images.unsplash.com/photo-1531012278403-e5db3b774373?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  color: red;
+  text-align:center;
+}
+
+p {
+  color:green;
+  font-family: "Arial Black";
+  font-size: 28px;
+}
+</style>
+</head>
+<body>
+
+<h1>Informações do aluno</h1>
+<p>Nome: Alexandre Leschot Frederick</p>
+<p>Idade: 27 anos.</p>
+<p>Hobby: Andar de barco</p>
+
+</body>
+</html>
